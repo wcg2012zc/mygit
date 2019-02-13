@@ -10,11 +10,8 @@ import unittest
 from time import sleep
 #导入驱动
 from selenium import webdriver
-
 #继承测试用例的类
 from selenium.webdriver.support.select import Select
-
-
 class TestLogin (unittest.TestCase):
     #初始化操作
     def setUp(self):

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<logindata>
+    <url>http://dev.ncme.org.cn/admin/</url>
+    <login1>
+        <username>admin</username>
+        <password>123456</password>
+    </login1>
+    <login2>
+        <username>aaaaaa</username>
+        <password>123456</password>
+    </login2>
+    <login3>
+        <username>zhaojingping</username>
+        <password>123456</password>
+    </login3>
+    <login4>
+        <username>bbbbbb</username>
+        <password>123456</password>
+    </login4>
+    <login5>
+        <username>cccccc</username>
+        <password>123456</password>
+    </login5>
+    <login6>
+        <user>zhaojingping</user>
+        <password>123456</password>
+    </login6>
+    <login7>
+        <user>zhangruiling</user>
+        <password>123456</password>
+    </login7>
+
+    <courses1>
+        <lesson Name="test1">
+                <coursename>test1</coursename>
+                <courseinstr>aaadscyyyyyyyyysfasyyyyyyyyyyyyyn</courseinstr>
+                <coursepic>D:\aaa.jpg</coursepic>
+                <surname>张</surname>
+                <unitname>单元一</unitname>
+                <videoname>物质使用相关障碍的诊断思路</videoname>
+                <progress>80</progress>
+                <coursetype>点播</coursetype>
+        </lesson>
+    </courses1>
+    <courses2>
+        <lesson Name="test2">
+                <coursename>test2</coursename>
+                <courseinstr>测试简介aaaa111111</courseinstr>
+                <coursepic>D:\aaa.jpg</coursepic>
+                <surname>刘</surname>
+                <unitname>单元一</unitname>
+                <videoname>物质使用相关障碍的诊断思路</videoname>
+                <progress>80</progress>
+                <coursetype>点播</coursetype>
+        </lesson>
+    </courses2>
+    <courses3>
+        <lesson Name="test3">
+                <coursename>test3</coursename>
+                <courseinstr>cyyyyyysyyyyyyy555555yyyyyyyyyn</courseinstr>
+                <coursepic>D:\aaa.jpg</coursepic>
+                <surname>王</surname>
+                <unitname>单元二</unitname>
+                <videoname>物质使用相关障碍的诊断思路</videoname>
+                <progress>80</progress>
+                <coursetype>点播</coursetype>
+        </lesson>
+    </courses3>
+    <courses4>
+        <lesson Name="test4">
+                <coursename>test4</coursename>
+                <courseinstr>12113项目简介</courseinstr>
+                <coursepic>D:\aaa.jpg</coursepic>
+                <surname>刘</surname>
+                <unitname>单元二</unitname>
+                <videoname>物质使用相关障碍的诊断思路</videoname>
+                <progress>80</progress>
+                <coursetype>点播</coursetype>
+        </lesson>
+    </courses4>
+    <courses5>
+        <lesson Name="test5">
+                <coursename>test5</coursename>
+                <courseinstr>cyyyyyyyyyyyyyyyyyyyyyyn</courseinstr>
+                <coursepic>D:\aaa.jpg</coursepic>
+                <surname>张</surname>
+                <unitname>单元一</unitname>
+                <videoname>物质使用相关障碍的诊断思路</videoname>
+                <progress>80</progress>
+                <coursetype>点播</coursetype>
+        </lesson>
+    </courses5>
+    <courses6>
+        <lesson Name="test6">
+                <coursename>test6</coursename>
+                <courseinstr>cyyyyyyyysfsfsadfsdyyyyyyyyyyyyyyn</courseinstr>
+                <coursepic>D:\aaa.jpg</coursepic>
+                <surname>张</surname>
+                <coursetype>面授</coursetype>
+        </lesson>
+    </courses6>
+    <courses7>
+        <lesson Name="test7">
+                <coursename>test7</coursename>
+                <courseinstr>cyyyyyyyyyyyyyyyyyyyyyyn</courseinstr>
+                <coursepic>D:\aaa.jpg</coursepic>
+                <surname>刘</surname>
+                <coursetype>面授</coursetype>
+        </lesson>
+    </courses7>
+    <courses8>
+        <lesson Name="test8">
+                <coursename>test8</coursename>
+                <courseinstr>cyyyyyyyy11111111yyyyyyyyyyyyyyn</courseinstr>
+                <coursepic>D:\aaa.jpg</coursepic>
+                <surname>张</surname>
+                <coursetype>面授</coursetype>
+        </lesson>
+    </courses8>
+    <courses9>
+        <lesson Name="test9">
+                <coursename>test9</coursename>
+                <courseinstr>cyyyyyyyyyyyyyyyyyyyyyyn</courseinstr>
+                <coursepic>D:\aaa.jpg</coursepic>
+                <surname>张</surname>
+                <coursetype>面授</coursetype>
+        </lesson>
+    </courses9>
+    <courses10>
+        <lesson Name="test10">
+                <coursename>test10</coursename>
+                <courseinstr>cyyyyyyyyyyy3333333sfsdfsdfdsyyyyyyyyyyyn</courseinstr>
+                <coursepic>D:\aaa.jpg</coursepic>
+                <surname>张</surname>
+                <coursetype>面授</coursetype>
+        </lesson>
+    </courses10>
+</logindata>

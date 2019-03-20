@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><logindata>
+    <login>
+        <url>http://dev.ncme.org.cn/admin/</url>
+        <username>admin</username>
+        <password>123456</password>
+        #<coursename>test</coursename>
+    </login>
+    <courses>
+        <lesson Name="test1">
+                <courseinstr>cyyyyyyyyyyyyyyyyyyyyyyn</courseinstr>
+                <coursepic>D:\ncme.png</coursepic>
+                <surname>张</surname>
+                <unitname>单元一</unitname>
+                <videoname>物质使用相关障碍的诊断思路</videoname>
+                <progress>80</progress>
+        </lesson>
+        <lesson Name="test2">
+                <coursename>test2</coursename>
+                <courseinstr>cyyyyyyyyyyyyyyyyyyyyyyn</courseinstr>
+                <coursepic>D:\ncme.png</coursepic>
+                <surname>张</surname>
+                <coursetype>//*[@id=&quot;_cvType&quot;]/li[2]</coursetype>
+        </lesson>
+    </courses>
+</logindata>

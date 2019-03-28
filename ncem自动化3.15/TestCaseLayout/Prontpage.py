@@ -11,12 +11,12 @@ class Testcase(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.dr = DriverHandle().driver
-        cls.dr.get("http://dev.ncme.org.cn/qiantai/")
+        cls.dr.get("url")
         time.sleep(5)
 
     def setUp(self):
         # self.dr = DriverHandle().driver
-        # self.dr.get('http://dev.ncme.org.cn/qiantai/')
+        # self.dr.get('url')
         time.sleep(3)
 
     # 个人中心-我的胜任力
